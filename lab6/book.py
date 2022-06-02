@@ -42,16 +42,16 @@ b2 = Book("Computer Programming",250.00,"Krerkkeat Dummee","RUTS")
 # print(b2.price)
 # print(b2.auther)
 
-b1.book_detail()
-b2.book_detail()
+# b1.book_detail()
+# b2.book_detail()
 
 # store object into list
-mybook = list([b1,b2])
-print(mybook)
+# mybook = list([b1,b2])
+# print(mybook)
 
-print("Display book from list: ")
-for x in range(len(mybook)):
-    print(mybook[x].book_detail())
-
-for x in mybook:
-    print(x.book_detail())
+# print("Display book from list: ")
+# for x in range(len(mybook)):
+#     print(mybook[x].book_detail())
+#
+# for x in mybook:
+#     print(x.book_detail())

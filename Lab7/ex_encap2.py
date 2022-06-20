@@ -1,7 +1,7 @@
 """
-Student Name: irfan teh
-ID: 046
-Group: MIT212
+name: {irfan teh}
+id: {364211760046}
+group: {MIT212}
 """
 
 # Encapsulation
@@ -30,7 +30,7 @@ class Student:
               f'{self.__age} '
               f'Major: {self._major}')
 
-# std1 = Student('irfan teh',21)
+# std1 = Student('Purwiat',35)
 # std1.display_info()
 
 # using getter method

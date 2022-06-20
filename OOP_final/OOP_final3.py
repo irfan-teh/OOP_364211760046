@@ -1,3 +1,9 @@
+"""
+name: {irfan teh}
+id: {364211760046}
+group: {MIT212}
+"""
+
 class Student:
         def __init__(self, name, id, age, weight, height):
             # object Student

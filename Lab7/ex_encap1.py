@@ -1,7 +1,7 @@
 """
-Student Name: irfan teh
-ID: 046
-Group: MIT212
+name: {irfan teh}
+id: {364211760046}
+group: {MIT212}
 """
 
 # Encapsulation
@@ -17,7 +17,7 @@ class Student:
         print(f'Name: {self.name}\nAge: {self.__age}')
 
 # create object of Student
-std = Student('Irfan teh','21')
+std = Student('Puriwat','35')
 print(std.name)  # direct access
 #print(std.__age)  # 35
 # 1. use public methdo to access private member
@@ -39,3 +39,4 @@ print(std._major)
 # std.age = -100
 # print(std.age)
 # std.display_info()
+

@@ -118,8 +118,6 @@ print('6.pfizer')
 s2 = int(input('select: '))
 d2 = input('Date(dd/mm/yyyy): ')
 
-
-
 1,input('1.sinovac')
 2,input('2.astrazeneca')
 3,input('3.johnson&johnson')
